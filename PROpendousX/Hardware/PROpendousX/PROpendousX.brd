@@ -1,0 +1,86 @@
+PCBNEW-BOARD Version 1 date 12/6/2011 6:24:41 PM
+
+# Created by Pcbnew(2011-07-08 BZR 3044)-stable
+
+$GENERAL
+encoding utf-8
+LayerCount 4
+Ly 1FFF8007
+EnabledLayers 11FC8007
+Links 0
+NoConn 0
+Di 0 0 117000 82670
+Ndraw 0
+Ntrack 0
+Nzone 0
+BoardThickness 630
+Nmodule 0
+Nnets 1
+$EndGENERAL
+
+$SHEETDESCR
+Sheet A4 11700 8267
+Title "PROpendousX AM335x"
+Date "5 dec 2011"
+Rev "1.0"
+Comp "Opendous Inc. (www.opendous.org)"
+Comment1 "http://creativecommons.org/licenses/by/3.0/"
+Comment2 "Copyright Under the Creative Commons Attribution License"
+Comment3 ""
+Comment4 "www.PROpendousX.org"
+$EndSHEETDESCR
+
+$SETUP
+InternalUnit 0.000100 INCH
+Layers 4
+Layer[0] Back mixed
+Layer[1] Inner2 mixed
+Layer[2] Inner1 power
+Layer[15] Front mixed
+TrackWidth 60
+TrackClearence 60
+ZoneClearence 200
+TrackMinWidth 60
+DrawSegmWidth 150
+EdgeSegmWidth 150
+ViaSize 200
+ViaDrill 120
+ViaMinSize 200
+ViaMinDrill 120
+MicroViaSize 200
+MicroViaDrill 120
+MicroViasAllowed 0
+MicroViaMinSize 200
+MicroViaMinDrill 120
+TextPcbWidth 120
+TextPcbSize 600 800
+EdgeModWidth 150
+TextModSize 600 600
+TextModWidth 120
+PadSize 600 600
+PadDrill 320
+Pad2MaskClearance 100
+AuxiliaryAxisOrg 0 0
+PcbPlotParams (pcbplotparams (layerselection 3178497) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 2) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory ""))
+$EndSETUP
+
+$EQUIPOT
+Na 0 ""
+St ~
+$EndEQUIPOT
+$NCLASS
+Name "Default"
+Desc "This is the default net class."
+Clearance 60
+TrackWidth 60
+ViaDia 200
+ViaDrill 120
+uViaDia 200
+uViaDrill 120
+AddNet ""
+$EndNCLASS
+$TRACK
+$EndTRACK
+$ZONE
+$EndZONE
+$EndBOARD
