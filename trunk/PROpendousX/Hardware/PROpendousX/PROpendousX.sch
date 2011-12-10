@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 12/9/2011 12:11:08 AM
+EESchema Schematic File Version 2  date 12/10/2011 4:37:07 AM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,14 +29,16 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:opendous
+LIBS:Opennect_Schematic_Symbols_Library
 LIBS:PROpendousX-cache
 EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
-Sheet 1 11
+Sheet 1 12
 Title "PROpendousX AM335x"
-Date "9 dec 2011"
+Date "10 dec 2011"
 Rev "1.0"
 Comp "Opendous Inc. (www.opendous.org)"
 Comment1 "http://creativecommons.org/licenses/by/3.0/"
@@ -45,7 +47,13 @@ Comment3 ""
 Comment4 "www.PROpendousX.org"
 $EndDescr
 $Sheet
-S 900  7200 3000 300 
+S 900  3700 3000 300 
+U 4EE28EE1
+F0 "Power_Manager" 60
+F1 "PROpendousX-Power_Manager.sch" 60
+$EndSheet
+$Sheet
+S 4500 4400 3000 300 
 U 4EE13B4B
 F0 "Vias" 60
 F1 "PROpendousX-Vias.sch" 60
@@ -67,25 +75,25 @@ Wire Notes Line
 Wire Notes Line
 	4400 6100 4000 6100
 $Sheet
-S 900  5800 3000 300 
+S 4500 3000 3000 300 
 U 4EE13939
 F0 "Ethernet" 60
 F1 "PROpendousX-Ethernet.sch" 60
 $EndSheet
 $Sheet
-S 900  6500 3000 300 
+S 4500 3700 3000 300 
 U 4EE138FD
 F0 "USB" 60
 F1 "PROpendousX-USB.sch" 60
 $EndSheet
 $Sheet
-S 900  5100 3000 300 
+S 4500 2300 3000 300 
 U 4EE13170
 F0 "MMC" 60
 F1 "PROpendousX-MMC.sch" 60
 $EndSheet
 $Sheet
-S 900  4400 3000 300 
+S 4500 900  3000 300 
 U 4EE124E1
 F0 "Signal_MUX" 60
 F1 "PROpendousX-Signal_MUX.sch" 60
@@ -123,7 +131,7 @@ Wire Notes Line
 Wire Notes Line
 	4000 6500 4000 6100
 $Sheet
-S 900  3700 3000 300 
+S 4500 1600 3000 300 
 U 4EDEB54F
 F0 "LCD" 60
 F1 "PROpendousX-LCD.sch" 60

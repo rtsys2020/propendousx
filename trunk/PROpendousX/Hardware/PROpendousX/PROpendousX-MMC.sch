@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 12/9/2011 12:11:08 AM
+EESchema Schematic File Version 2  date 12/10/2011 4:37:07 AM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -34,9 +34,9 @@ EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
-Sheet 4 11
+Sheet 6 12
 Title "PROpendousX AM335x"
-Date "9 dec 2011"
+Date "10 dec 2011"
 Rev "1.0"
 Comp "Opendous Inc. (www.opendous.org)"
 Comment1 "http://creativecommons.org/licenses/by/3.0/"
@@ -126,8 +126,8 @@ $Comp
 L AM335X_ZCZ IC?
 U 10 1 4EE131B7
 P 1150 3650
-F 0 "IC?" V 1100 3950 60  0000 C CNN
-F 1 "AM335X_ZCZ" V 1100 3350 60  0000 C CNN
+F 0 "IC?" V 1100 3900 60  0000 C CNN
+F 1 "AM335X" V 1100 3500 60  0000 C CNN
 	10   1150 3650
 	1    0    0    -1  
 $EndComp
