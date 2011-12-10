@@ -1,0 +1,13 @@
+NOT YET COMPLETE
+
+Bill of Materials for the PROpendousX AM335x Cortex-A8 Project - www.PROpendousX.org
+
+
+QTY, Manufacturer Part#         , Cost($USD each) - References - Description
+
+  1, STC3100IQT                 , 3.43 - IC2 - IC BATTERY MON W/GUAGE 8-DFN
+---------------------------Total:00.00
+
+
+Notes:	- Component costs are based on minimum quantity orders from DigiKey unless otherwise noted
+	- standard ferrite bead should be 0603 150-Ohm 800mA

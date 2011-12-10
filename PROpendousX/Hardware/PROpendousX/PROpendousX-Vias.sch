@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 12/9/2011 12:11:08 AM
+EESchema Schematic File Version 2  date 12/10/2011 4:37:07 AM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -34,9 +34,9 @@ EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
-Sheet 3 11
+Sheet 3 12
 Title "PROpendousX AM335x"
-Date "9 dec 2011"
+Date "10 dec 2011"
 Rev "1.0"
 Comp "Opendous Inc. (www.opendous.org)"
 Comment1 "http://creativecommons.org/licenses/by/3.0/"
