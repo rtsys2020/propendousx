@@ -1,0 +1,1 @@
+PROpendousX is an OpenHardware Development Board for TI's AM335x Cortex-A8 ICs.
